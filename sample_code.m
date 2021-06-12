@@ -2,7 +2,6 @@ clear; close all;
 
 img1 = imread('helmet_mkv_0000000000.jpg');
 img2 = imread('helmet_mkv_0000000004.jpg');
-
 Frame1 = rgb2gray(img1);
 Frame2 = rgb2gray(img2);
 
